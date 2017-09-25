@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lafo0166/mtm6330-week2#readme",
   "devDependencies": {
+    "gulp-sass": "^3.1.0",
     "webpack": "^3.6.0"
   }
 }
